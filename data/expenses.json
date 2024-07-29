@@ -1,0 +1,53 @@
+[
+    {
+      "id": "1",
+      "name": "Bydlení",
+      "amount": "12500.50"
+    },
+    {
+      "id": "2",
+      "name": "Jídlo",
+      "amount": "4800.75"
+    },
+    {
+      "id": "3",
+      "name": "Úspory",
+      "amount": "3500.00"
+    },
+    {
+      "id": "4",
+      "name": "Doprava",
+      "amount": "1500.20"
+    },
+    {
+      "id": "5",
+      "name": "Zábava",
+      "amount": "2500.00"
+    },
+    {
+      "id": "6",
+      "name": "Oblečení",
+      "amount": "3200.45"
+    },
+    {
+      "id": "7",
+      "name": "Zdravotní péče",
+      "amount": "2100.00"
+    },
+    {
+      "id": "8",
+      "name": "Vzdělání",
+      "amount": "1000.00"
+    },
+    {
+      "id": "9",
+      "name": "Pojištění",
+      "amount": "1800.75"
+    },
+    {
+      "id": "10",
+      "name": "Ostatní",
+      "amount": "500.00"
+    }
+  ]
+  

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "name": "Pronájem na AirBnB",
+    "amount": "529.99",
+    "date": "2024-05-01"
+  },
+  {
+    "id": "2",
+    "name": "Netflix",
+    "amount": "10.99",
+    "date": "2024-05-02"
+  },
+  {
+    "id": "3",
+    "name": "Spotify",
+    "amount": "5.99",
+    "date": "2024-05-02"
+  },
+  {
+    "id": "4",
+    "name": "Amazon",
+    "amount": "234.69",
+    "date": "2024-05-06"
+  },
+  {
+    "id": "6",
+    "name": "Online nakupování",
+    "amount": "136.99",
+    "date": "2024-05-12"
+  }
+]
